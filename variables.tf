@@ -1,5 +1,5 @@
 variable "project_id" {
-  default = "TU-PROYECTO"
+  default = "myprojectp5"
 }
 
 variable "region" {
